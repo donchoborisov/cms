@@ -12,14 +12,16 @@
 ![image](https://user-images.githubusercontent.com/48497063/80916104-9d0c0e80-8d4e-11ea-9578-ee9f4c5d218a.png)
 
 
+COMPLETE BLOG:   Some features of this CONTENT MANAGEMENT SYSTEM are: 
 
-## Learning Laravel
+    Post categories(CRUD)
+    Post tags(CRUD)
+    Posts (CRUD)
+    Trashing posts
+    Multiple user and multiple role support
+    Social media post sharing
+    Blog search 
+    Disqus commenting system
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1100 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost you and your team's skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
